@@ -11,6 +11,6 @@ li {
   list-style: none;
   margin: 8px;
   padding: 8px;
-  border: whitesmoke 3px solid;
+  border: rgb(222, 199, 199) 3px solid;
   border-radius: 8px;
 }
